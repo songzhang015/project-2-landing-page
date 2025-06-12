@@ -1,1 +1,2 @@
-# project-2-landing-page
+# Odin Project - Project 2:
+Landing Page
