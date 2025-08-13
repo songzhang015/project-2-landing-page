@@ -1,6 +1,6 @@
 # Landing Page
 
-A mockup landing page with buttons, pictures, and style
+A mockup landing page with buttons, pictures, and style.
 
 Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum to practice **HTML**, **CSS**, and **forming a well structured webpage using Flexbox**.
 
